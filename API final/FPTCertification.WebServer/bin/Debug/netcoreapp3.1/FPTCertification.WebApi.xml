@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FPTCertification.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:FPTCertification.WebApi.Controllers.ActorsController.PutActor(System.Int32,FPTCertification.Business.Models.RequestUpdateSkill)">
+            <summary>
+            Get booking
+            </summary>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ActorsController.PostActor(FPTCertification.Business.Models.RequestCreateActorModel)">
+            <summary>
+            POST: api/Actors
+            Input: actor model
+            Output: response actor
+            </summary>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CategoriesController.GetOnlyCategories">
+            <summary>
+            Get only Categories
+            </summary>
+            <returns>
+            List entities of Category follow model ResponseOnlyCategory
+            </returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CategoriesController.GetCategoryById(System.Int32)">
+            <summary>
+            Get Category by Id
+            </summary>
+            <param name="id"></param>
+            <returns>return a Category with specific Id</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CategoriesController.CreateCategory(FPTCertification.Business.Models.RequestCreateCategory)">
+            <summary>
+            Create new Category
+            </summary>
+            <param name="_category"></param>
+            <returns>return Created Category</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CategoriesController.Put(System.Int32,FPTCertification.Business.Models.RequestUpdateCategory)">
+            <summary>
+            Update Category
+            </summary>
+            <param name="id"></param>
+            <param name="_category"> follow model RequesteUpdateCategory</param>
+            <returns>Updated Category</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            Delete Category
+            </summary>
+            <param name="id"></param>
+            <returns>return deleted Category</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.GetAllCertifications">
+            <summary>
+            Get All Certifications
+            </summary>
+            <returns>A List of Certification with Skills</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.GetCertificationById(System.Int32)">
+            <summary>
+            Get Certification by Id
+            </summary>
+            <param name="id"></param>
+            <returns>return a certification with specific Id</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.CreateCertification(FPTCertification.Business.Models.RequestCreateCertification)">
+            <summary>
+            Create New Certification
+            </summary>
+            <param name="model"></param>
+            <returns>Created Certification</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.UpdateCertification(System.Int32,FPTCertification.Business.Models.RequestUpdateCertification)">
+            <summary>
+            Update
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns>Updated Certification</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.DeleteCertification(System.Int32)">
+            <summary>
+            Delete a Certification
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.CertificationsController.ChangeStatus(System.Int32,FPTCertification.Business.Models.RequestUpdateStatusCertification)">
+            <summary>
+            Change Status of a Certification
+            </summary>
+            <param name="id"></param>
+            <param name="_certification"></param>
+            <returns>Updated Status Certification</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.GetOnlyClasses">
+            <summary>
+            Get only classes
+            </summary>
+            <returns>
+            List entities of classes follow model ReponseGetOnlyClasses
+            </returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.GetClassById(System.Int32)">
+            <summary>
+            Get Class by Id
+            </summary>
+            <param name="id"></param>
+            <returns>return a class with specific Id</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.GetClassesByName(System.String)">
+            <summary>
+            Get Classes By Name
+            </summary>
+            <param name="search"></param>
+            <returns>return a list Class contains search param</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.CreateClasses(FPTCertification.Business.Models.RequestCreateClasses)">
+            <summary>
+            Create new Class
+            </summary>
+            <param name="_classes"></param>
+            <returns>return entity Classes</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.UpdateClass(System.Int32,FPTCertification.Business.Models.RequesteUpdateClasses)">
+            <summary>
+            Update
+            </summary>
+            <param name="id"></param>
+            <param name="_classes"> follow model RequesteUpdateClasses</param>
+            <returns>N/A</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.Delete(System.Int32)">
+            <summary>
+            Delete Class
+            </summary>
+            <param name="id"></param>
+            <returns>return deleted Class</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.ClassesController.ChangeStatus(System.Int32,FPTCertification.Business.Models.RequestUpdateStatusClass)">
+            <summary>
+            Change Status of a Class
+            </summary>
+            <param name="id"></param>
+            <param name="_classes"></param>
+            <returns>Updated Status Class</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.QuestionAnswersController.CreateQuestion(FPTCertification.Business.Models.RequestCreateQuestion)">
+            <summary>
+            Create new Question
+            </summary>
+            <param name="question"></param>
+            <returns>return Created Question Type</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.QuestionTypeController.GetAllQuestionTypes">
+            <summary>
+            Get Question Type
+            </summary>
+            <returns>
+            List entities of Question Type
+            </returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.QuestionTypeController.CreateQuestionType(FPTCertification.Business.Models.RequestCreateQuestionType)">
+            <summary>
+            Create new Question Type
+            </summary>
+            <param name="questionType"></param>
+            <returns>return Created Question Type</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.GetSkills">
+            <summary>
+            Get only skills
+            </summary>
+            <returns>
+            List entities of skills follow model ResponseOnlySkills
+            </returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.GetSkillById(System.Int32)">
+            <summary>
+            Get Skills by Id
+            </summary>
+            <param name="id"></param>
+            <returns>return a Skill with specific Id</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.GetSkillsByName(System.String)">
+            <summary>
+            Get Skills By Name
+            </summary>
+            <param name="search"></param>
+            <returns>return a list Skill contains search param</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.CreateClasses(FPTCertification.Business.Models.RequestCreateSkill)">
+            <summary>
+            Create new Skill
+            </summary>
+            <param name="_skill">follow the model RequestCreateSkill</param>
+            <returns>return entity Skill</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.UpdateSkill(System.Int32,FPTCertification.Business.Models.RequestUpdateSkill)">
+            <summary>
+            Update Skill
+            </summary>
+            <param name="id"></param>
+            <param name="_skill"> follow model RequesteUpdateSkill</param>
+            <returns>Updated Skill</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.Delete(System.Int32)">
+            <summary>
+            Delete Skill
+            </summary>
+            <param name="id"></param>
+            <returns>return deleted Skill</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.SkillsController.ChangeStatus(System.Int32,FPTCertification.Business.Models.RequestUpdateStatusSkill)">
+            <summary>
+            Change Status of a Skill
+            </summary>
+            <param name="id"></param>
+            <param name="_skill"></param>
+            <returns>Updated Status Skill</returns>
+        </member>
+        <member name="M:FPTCertification.WebApi.Controllers.UserController.LoginAsync(FPTCertification.Business.Models.RequestLoginModel)">
+            <summary>
+            Using for login an account 
+            </summary>
+            <param name="login"></param>
+            <returns>
+            Token object
+            </returns>
+        </member>
+    </members>
+</doc>

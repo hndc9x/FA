@@ -1,0 +1,90 @@
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Fsoft\netcore\EFCore\FPTCertification\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+C:\Fsoft Project\CertificationProject\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+C:\Users\Ti\Desktop\Fsoft_Project\API ver 20\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.deps.json
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.json
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.runtimeconfig.dev.json
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.dll
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\bin\Debug\netcoreapp3.1\FPTCertification.Data.pdb
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csprojAssemblyReference.cache
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfoInputs.cache
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.AssemblyInfo.cs
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CoreCompileInputs.cache
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.csproj.CopyComplete
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.dll
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.pdb
+D:\Desktop\Project_Fa\FA-HCM_Project_Final\API final\FPTCertification.Business\obj\Debug\netcoreapp3.1\FPTCertification.Business.genruntimeconfig.cache

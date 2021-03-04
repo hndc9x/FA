@@ -1,0 +1,15 @@
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Business.deps.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Business.runtimeconfig.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Business.runtimeconfig.dev.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Business.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Business.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Data.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\bin\Debug\netcoreapp3.1\EFDemo.Data.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.csprojAssemblyReference.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.csproj.CoreCompileInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.AssemblyInfoInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.AssemblyInfo.cs
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.csproj.CopyComplete
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Business\obj\Debug\netcoreapp3.1\EFDemo.Business.genruntimeconfig.cache

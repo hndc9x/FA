@@ -1,0 +1,12 @@
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.deps.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.runtimeconfig.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.runtimeconfig.dev.json
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.csprojAssemblyReference.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.csproj.CoreCompileInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.AssemblyInfoInputs.cache
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.AssemblyInfo.cs
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.dll
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.pdb
+D:\Fsoft\netcore\EFCore\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.genruntimeconfig.cache
